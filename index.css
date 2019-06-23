@@ -1,0 +1,20 @@
+header{
+    background-color: #DCDCDC;
+    padding: 20px 40px;
+    border-color: black;
+}
+img{
+    height: 100px;
+}
+.container{
+    padding: 20px 20px;
+    background-color: #B8BBB8;
+    text-align: center;
+    
+}
+section{
+    padding: 10px;
+}
+button{
+    background-color: blue;
+}
